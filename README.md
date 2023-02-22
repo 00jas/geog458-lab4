@@ -1,4 +1,4 @@
-# geog458-lab4
+### geog458-lab4
 
 # Lab 4: Map Design and Tile Generation 
 
