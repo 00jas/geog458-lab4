@@ -1,4 +1,4 @@
-### geog458-lab4
+### GEOG 458 Lab 4 Map Design and Tile Generation
 
 # Lab 4: Map Design and Tile Generation 
 
