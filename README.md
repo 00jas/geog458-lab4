@@ -2,7 +2,7 @@
 
 # Lab 4: Map Design and Tile Generation 
 
-[Access to Web Maps](http://127.0.0.1:5500/index.html)
+[Access to Web Maps](https://00jas.github.io/geog458-mapDesigns/index.html)
 
 ## Tile Set 1 
 ![Basemap](assets/tile_sets_1/basemap_screenshot.png)
